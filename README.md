@@ -1,2 +1,2 @@
 # awscdk
-Infrastructure as code with AWS CDK
+Infrastructure as a code with AWS CDK
